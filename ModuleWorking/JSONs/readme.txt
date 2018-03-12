@@ -1,0 +1,1 @@
+This gives an example as how to output JSON or how to use JSON to send data using http requests.

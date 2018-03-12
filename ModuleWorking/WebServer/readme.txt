@@ -1,0 +1,1 @@
+This is an example on how to create a simple web server in nodejs that accepts http requests and build a http response.

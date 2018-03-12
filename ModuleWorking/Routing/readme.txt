@@ -1,0 +1,1 @@
+This gives an example of routing(mapping http requests to content) to check whether actual files exists on server or not..
